@@ -1,0 +1,19 @@
+{
+  "name": "alger-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "express": "^4.17.1",
+    "lorem-ipsum": "^2.0.4",
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
